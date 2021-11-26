@@ -1,13 +1,9 @@
 # Toypocket
 ## Toypocket 概要
 ### 主な事業
-- トレーディングカード特化SNS
-- カード/オリジナルパック販売
-- コンサルティング
+#### Caraby トレーディングカードプレイヤーに特化したSNS
+<img src = "https://user-images.githubusercontent.com/49857703/138677422-347d2b02-d464-41ed-a39d-0606d0d65582.png" width = "300">
 
-### アイデア段階
-- オリジナルパック D2C
-- 販売/売買プラットフォーム
 
 ## 理念
 記載予定
